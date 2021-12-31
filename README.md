@@ -1,22 +1,10 @@
-# Tableau Homework - Citi Bike Analytics
-
-### Before You Begin
-
-* This assignment will be saved to your Tableau Public account rather than GitHub. 
-
-* If you haven't already, be sure to create a Tableau Public account [here](https://public.tableau.com/s/).
-
-* The free tier of Tableau only lets you save to their public server. This means that each time you save your file it will be uploaded to your Tableau Public profile. 
-
-* You are able to load and continue working on the same workbook.
-
-* When you are finished with your assignment, you will turn in the URL to your Tableau Public workbook along with any additional files used for your analysis. 
+# Citi Bike Analytics
 
 ## Background
 
 ![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
 
-Congratulations on your new job! As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
+As the new lead analyst for the [New York Citi Bike](https://en.wikipedia.org/wiki/Citi_Bike) Program, you are now responsible for overseeing the largest bike sharing program in the United States. In your new role, you will be expected to generate regular reports for city officials looking to publicize and improve the city program.
 
 Since 2013, the Citi Bike Program has implemented a robust infrastructure for collecting data on the program's utilization. Through the team's efforts, each month bike data is collected, organized, and made public on the [Citi Bike Data](https://www.citibikenyc.com/system-data) webpage.
 
@@ -28,7 +16,7 @@ However, while the data has been regularly updated, the team has yet to implemen
 
 **Design 2-5 visualizations for each discovered phenomena (4-10 total). You may work with a timespan of your choosing. Optionally, you may merge multiple datasets from different periods.** 
 
-**The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point. Be creative!**
+**The following are some questions you may wish to tackle. Do not limit yourself to these questions; they are suggestions for a starting point.**
 
 * How many trips have been recorded total during the chosen period?
 
@@ -136,11 +124,3 @@ Your final product will be assessed on the following metrics:
 * Treat this as a serious endeavor! This is an opportunity to show future employers that you have what it takes to be a top-notch analyst. 
 
 * Good luck!
-
-## Rubric
-
-[Unit 18 Rubric - Tableau Homework - Citi Bike Analytics](https://docs.google.com/document/d/11hlhJnKmEJgRYL3mUxRcdrz4AIxBU5PXW5fYrRYvgW8/edit?usp=sharing)
-
-- - -
-
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
